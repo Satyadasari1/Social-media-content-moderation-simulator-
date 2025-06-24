@@ -68,3 +68,15 @@ Social-Media-Content-Moderation/
 ├── 📁 reports/
 │   └── project_report.pdf         # Project documentation
 └── 📄 README.md                   # Project overview and usage
+
+---
+
+🧠 Content Categories
+
+✅ Safe – Appropriate, no violation
+
+🚫 Spam – Repeated or promotional
+
+⚠️ Toxic – Hateful, offensive, abusive
+
+❗ Escalation Needed – Borderline or unclear cases
