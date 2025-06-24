@@ -80,3 +80,20 @@ Social-Media-Content-Moderation/
 ⚠️ Toxic – Hateful, offensive, abusive
 
 ❗ Escalation Needed – Borderline or unclear cases
+
+---
+
+📚 Learning Outcomes
+✔️ Practice moderation & policy enforcement
+
+✔️ Develop sharp observation and decision-making skills
+
+✔️ Understand online platform safety standards
+
+✔️ Build a strong, job-ready portfolio project
+
+---
+
+📎 Disclaimer
+
+This is a simulated educational project for skill-building only. It is not associated with any real platform or company.
